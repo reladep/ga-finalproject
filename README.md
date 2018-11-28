@@ -1,3 +1,3 @@
 # ga-finalproject
 
-Type some text here. 
+This project is about California carbon allowances. 
